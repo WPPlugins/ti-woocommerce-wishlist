@@ -1,0 +1,23 @@
+<wpml-config>
+	<admin-texts>
+		<key name="tinvwl-general">
+			<key name="default_title"/>
+		</key>
+		<key name="tinvwl-add_to_wishlist">
+			<key name="text"/>
+			<key name="text_browse"/>
+			<key name="text_already_in"/>
+			<key name="text_added_to"/>
+		</key>
+		<key name="tinvwl-product_table">
+			<key name="text_add_to_card"/>
+		</key>
+		<key name="tinvwl-table">
+			<key name="text_add_select_to_card"/>
+			<key name="text_add_all_to_card"/>
+		</key>
+		<key name="tinvwl-social">
+			<key name="share_on"/>
+		</key>
+	</admin-texts>
+</wpml-config>
